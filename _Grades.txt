@@ -1,4 +1,4 @@
-Assignment: Use CSS ID selectors to style two paragraphs on your About Me page differently.
+gitAssignment: Use CSS ID selectors to style two paragraphs on your About Me page differently.
 
 Grade:  0
 
