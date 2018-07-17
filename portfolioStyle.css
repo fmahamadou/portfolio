@@ -1,3 +1,23 @@
-body{
+body {
     background: thistle;
+}
+
+#title {
+    font-size: 1.5rem;
+    color: rgb(11, 20, 40);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifz
+}
+
+#favorite {
+    font-size: 1.5rem;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+img  {
+    width: 25ch;
+    padding : 5px;
+}
+#divide {
+    float: left;
+    width: 25ch;
 }
