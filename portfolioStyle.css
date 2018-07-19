@@ -5,19 +5,21 @@ body {
 #title {
     font-size: 1.5rem;
     color: rgb(11, 20, 40);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifz
+    font-family: 'Merienda', cursive;
+font-family: 'Chela One', cursive;
+    
 }
 
 #favorite {
     font-size: 1.5rem;
     color: black;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifz
+    
 }
 img  {
-    width: 25ch;
+    width: 45ch;
     padding : 5px;
 }
 #divide {
     float: left;
-    width: 25ch;
-}
+    width: 75ch;
