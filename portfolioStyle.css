@@ -16,6 +16,12 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifz
     
 }
+
+#more {
+    font-size: 1.5rem;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifz
+}
 img  {
     width: 45ch;
     padding : 5px;
@@ -40,3 +46,4 @@ img  {
         transform:scale(1);
     }
 }
+    

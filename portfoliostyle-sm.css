@@ -1,0 +1,27 @@
+img  {
+    width: 29ch;
+    padding : 3em;
+}
+#title {
+    font-size: 1.0rem;
+    color: rgb(11, 20, 40);
+    font-family: 'Merienda', cursive;
+    font-family: 'Chela One', cursive;
+    
+}
+#favorite {
+    font-size: 0.8rem;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifz
+    
+}
+#more {
+    font-size: 0.8rem;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifz
+}
+#divide {
+    float: left;
+    width: 40ch;
+    
+}
