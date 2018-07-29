@@ -1,0 +1,43 @@
+Portfolio final grade: 86
+
+Comments:  Strong effort, especially the time you took to make sure you mobile responsive design was working.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 76
+(50% of overall grade)
+
+Points deducted for these items:
+    -2 Default document title not changed on two pages.
+    -1 Inconsistent link patter used on About page.
+    -1 content outside of the </body> tag on About page.
+    -2 Google fonts link placed inside the body tag on About page.
+    -3 Google font links missing on 3 pages.
+    -3 Missing media query links on 3 pages.
+    -2 Stylesheet links missing on 2 pages.
+    -2 Missing </head> and <body> tags on Contact page.
+    -2 Missing </body> and </html> tags on Resume page.
+    -3 Missing and broken tags on Projects page.
+    -3 Project page link broken on other pages.
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 90
+(25% of overall grade)
+
+Points deducted for these items:
+    -9 Uneeded duplicate styles included in portfoliostyle-sm.css.
+    -1 Duplicate font-family property included in the #title {} selector.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 100
+(25% of overall grade)
+
+Points deducted for these items:
