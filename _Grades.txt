@@ -1,4 +1,4 @@
-Portfolio final grade: 86
+Portfolio final grade: 88
 
 Comments:  Strong effort, especially the time you took to make sure you mobile responsive design was working.
 
@@ -37,7 +37,10 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 100
+Grade: 110
 (25% of overall grade)
 
 Points deducted for these items:
+
+Bonus Points awarded for these items:
+    +10 because of completing the media queries
